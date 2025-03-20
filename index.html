@@ -19,7 +19,8 @@
         </div>
         <div class="buttons">
             <button class="btn btn-yes" onclick="accept()">Evet</button>
-            <button class="btn btn-no" id="noBtn">Hayır</button>
+            <!-- <button class="btn btn-no" onclick="showToast()">Hayır</button> -->
+            <button class="btn btn-no" onClick="showToast()" id="noBtn">Hayır</button>
         </div>
     </div>
 
@@ -31,10 +32,23 @@
         </div>
     </div>
  <script src="./scripts/index.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </body>
 </html>
 
 <script>
+function showToast() {
+    Swal.fire({
+        toast: true,
+        position: 'top-end',
+        icon: 'error',
+        title: "orospoucocugu evete bas lan değerlerini serefsizkopek BAS EVET'e",
+        showConfirmButton: false,
+        timer: 3000,
+        timerProgressBar: true
+    });
+}
+
     console.log('%c❤ Bunlar 😉 Senin İçin Eylül! ❤', 'color: #ff4081; font-size: 18px;');
     console.log('%c❤ Eeh. İyi ki varsın :) ❤', 'color: #ff4081; font-size: 14px');
     console.log('%cBu Kod: github.com/TPashaxrd/eylul-forgive', 'color: red; font-size: 13px;')
