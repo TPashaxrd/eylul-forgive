@@ -57,7 +57,7 @@ Projenizi Vercel'e deploy etmek için aşağıdaki adımları takip edebilirsini
 ---
 
 ## 📌 Örnek Ekran Görüntüsü
-![Örnek Görsel](/screenshoot/home.png)
+![Örnek Görsel](https://cdn.discordapp.com/attachments/1284196060692217867/1352264636170502194/image.png?ex=67dd6215&is=67dc1095&hm=11902d9eadb8266e3173e0ec5e56915a42dded82240cc1600881ccf35f1e01c1&)
 
 ---
 
