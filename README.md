@@ -1,3 +1,4 @@
+Eylül hanım için özel olarak tasarlanmıştır :)
 # ❤️ Eylül | Forgive Me
 
 Bu proje, sevgiliniz, eşiniz veya kız kardeşinizden özür dilemek için özel olarak hazırlanmış **duygusal bir özür sitesi**dir. Açık kaynak kodlu olup, kendinize göre özelleştirerek **https://vercel.app/** üzerinden yayınlayabilirsiniz. 💌
@@ -56,7 +57,7 @@ Projenizi Vercel'e deploy etmek için aşağıdaki adımları takip edebilirsini
 ---
 
 ## 📌 Örnek Ekran Görüntüsü
-![Örnek Görsel](https://via.placeholder.com/800x400.png?text=Eylul+Forgive+Me+Preview)
+![Örnek Görsel](/screenshoot/home.png)
 
 ---
 
