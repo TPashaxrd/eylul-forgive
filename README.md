@@ -34,18 +34,6 @@ Bu projede aşağıdaki teknolojiler kullanılmıştır:
 git clone https://github.com/TPashaxrd/eylul-forgive.git
 ```
 
-### 2️⃣ **Gerekli Bağımlılıkları Yükleyin**
-Tailwind'i kullanmak için aşağıdaki komutu çalıştırın:
-```sh
-npm install -D tailwindcss
-```
-
-### 3️⃣ **Geliştirme Ortamında Çalıştırın**
-Projeyi yerel sunucuda çalıştırmak için:
-```sh
-npm run dev
-```
-
 ---
 
 ## 🌍 Yayınlama (Vercel Üzerinden)
